@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 👨‍💻 Microsoft Enterprise Admin Expert
-- 🌐 Azure Solutions Architect Expert
+- 👨‍💻 Microsoft Enterprise Admin
+- 🌐 Azure Solutions Architect
 - ☁️ Certified Cloud Security Professional (in progress)
 - 📚 Learning my way around GitHub
