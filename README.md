@@ -1,4 +1,4 @@
-### Hello, [click here](https://robchantler.github.io/) to see my profile 👋
+### Hello, [click here](https://robchantler.github.io/) to see my public profile 👋
 
 - 👨‍💻 Microsoft Enterprise Admin (10+ years experience)
 - 🌐 Azure Cloud Solutions
