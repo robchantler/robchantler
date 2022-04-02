@@ -2,6 +2,6 @@
 
 - 👨‍💻 Microsoft Enterprise Admin (10+ years experience)
 - ☁️ M365 and Azure cloud solutions
-- 🚨 IT alerting implementations
+- 🚨 IT alerting implementation
 - 🔐 Certified Cloud Security Professional (CCSP) - in progress
 - 📚 Learning my way around GitHub
