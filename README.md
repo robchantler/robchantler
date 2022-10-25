@@ -1,4 +1,4 @@
-### Hello, [click here](https://robchantler.github.io/) to see my public profile 👋
+### Hello, [click here](https://robchantler.github.io/) to see my public profile  👋
 
 - 👨‍💻 Microsoft Enterprise Administrator
 - ☁️ M365 and Azure cloud solutions specialist
