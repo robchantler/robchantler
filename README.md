@@ -4,4 +4,4 @@
 - ☁️ M365 and Azure cloud solutions specialist
 - 🔐 Certified Cloud Security Professional (CCSP)
 - 🚨 IT alerting and mass notification implementation
-- 📚 Learning my way around GitHub
+- 📚 Learning my way around GitHub, git, Node.js, React.js, AWS Cognito and Amplify
