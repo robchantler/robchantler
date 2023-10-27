@@ -1,5 +1,5 @@
 - 👨‍💻 Microsoft Enterprise Administrator (10+ years)
-- ☁️ M365 and Azure Cloud Solutions Specialist
+- ☁️ M365 and Azure Cloud Solutions Specialist [(Certifications)](https://www.credly.com/users/rob-chantler/badges?sort=-state_updated_at&page=1)
 - 🔐 Certified Cloud Security Professional (CCSP)
 - 🚨 IT Alerting and Mass Notification implementation
 - 📚 Learning my way around GitHub, git, Node.js, React.js, AWS Cognito and Amplify
